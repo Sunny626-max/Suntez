@@ -1,1 +1,2 @@
-suntec-site/index.html
+suntec-site/
+├── index.html ✅
